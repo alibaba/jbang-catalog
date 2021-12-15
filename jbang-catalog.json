@@ -1,0 +1,9 @@
+{
+  "aliases": {
+    "rsocket-broker": {
+      "script-ref": "https://repo1.maven.org/maven2/com/alibaba/rsocket/alibaba-broker-server/1.1.2/alibaba-broker-server-1.1.2.jar",
+      "description": "Start Alibaba RSocket Broker - https://github.com/alibaba/alibaba-rsocket-broker",
+      "java": "8"
+    }
+  }
+}
