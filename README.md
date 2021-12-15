@@ -8,7 +8,7 @@ Before continuing, please [install JBang](https://www.jbang.dev/download/).
 To list the latest available artifacts in the Alibaba JBang's catalog, run the following command:
 
 ```
-$ jbang catalog list alibaba
+$ jbang --fresh catalog list alibaba
 ```
 
 # Alibaba JBang Projects
