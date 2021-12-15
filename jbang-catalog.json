@@ -4,6 +4,11 @@
       "script-ref": "https://repo1.maven.org/maven2/com/alibaba/rsocket/alibaba-broker-server/1.1.2/alibaba-broker-server-1.1.2.jar",
       "description": "Start Alibaba RSocket Broker - https://github.com/alibaba/alibaba-rsocket-broker",
       "java": "8"
+    },
+    "arthas": {
+      "script-ref": "https://repo1.maven.org/maven2/com/taobao/arthas/arthas-boot/3.5.5/arthas-boot-3.5.5-jar-with-dependencies.jar",
+      "description": "Launch Arthas Java Diagnostic Tool - https://github.com/alibaba/arthas",
+      "java": "8"
     }
   }
 }
