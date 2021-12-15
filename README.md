@@ -14,3 +14,4 @@ $ jbang catalog list alibaba
 # Alibaba JBang Projects
 
 * [Alibaba RSocket Broker](https://github.com/alibaba/alibaba-rsocket-broker): `jbang rsocket-broker@alibaba` 
+* [Alibaba Java Diagnostic Tool](https://github.com/alibaba/arthas): `jbang arthas@alibaba`
