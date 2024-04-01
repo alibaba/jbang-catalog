@@ -1,13 +1,13 @@
 {
   "aliases": {
     "arthas": {
-      "script-ref": "https://repo1.maven.org/maven2/com/taobao/arthas/arthas-boot/3.5.5/arthas-boot-3.5.5-jar-with-dependencies.jar",
+      "script-ref": "https://repo1.maven.org/maven2/com/taobao/arthas/arthas-boot/3.7.2/arthas-boot-3.7.2.jar",
       "description": "Launch Arthas Java Diagnostic Tool - https://github.com/alibaba/arthas"
     },
     "rsocket-broker": {
-      "script-ref": "https://repo1.maven.org/maven2/com/alibaba/rsocket/alibaba-broker-server/1.1.2/alibaba-broker-server-1.1.2.jar",
+      "script-ref": "https://repo1.maven.org/maven2/com/alibaba/rsocket/alibaba-broker-server/1.1.6/alibaba-broker-server-1.1.6.jar",
       "description": "Start Alibaba RSocket Broker - https://github.com/alibaba/alibaba-rsocket-broker",
-      "java": "8"
+      "java": "17"
     }
   }
 }
